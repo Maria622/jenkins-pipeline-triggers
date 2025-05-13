@@ -1,5 +1,7 @@
 import socket
 import os
+import panda as pan
+
 
 def main():
     hostname = socket.gethostname()
